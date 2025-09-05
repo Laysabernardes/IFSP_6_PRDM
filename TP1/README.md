@@ -11,11 +11,11 @@ Aplicação de login simples, desenvolvida como parte do Trabalho Prático 01. O
 -   **Limpar Campos**: O botão `Limpar` apaga o conteúdo dos campos de ID e senha e reposiciona o cursor no campo de ID.
 -   **Créditos**: O botão `Créditos` exibe uma caixa de diálogo com os nomes dos desenvolvedores da aplicação.
 
-## Teste
+## ✨ Teste
 
 ![Teste Funcioanndo](./video.gif)
 
 ## ✒️ Autores
 
--  **[Laysa Bernardes - CB3024873]** 
--  **[Lucas Lopes - CB3025284]**
+-  **Laysa Bernardes - CB3024873** 
+-  **Lucas Lopes - CB3025284**
