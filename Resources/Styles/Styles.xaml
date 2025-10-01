@@ -468,4 +468,25 @@
         <Setter Property="Margin" Value="5, 0" />
     </Style>
 
+    <ControlTemplate x:Key="PageWithFooterTemplate">
+        <AbsoluteLayout>
+
+            <ScrollView AbsoluteLayout.LayoutFlags="All" 
+                    AbsoluteLayout.LayoutBounds="0,0,1,1">
+
+                <ContentPresenter/>
+
+            </ScrollView>
+
+            <Label AbsoluteLayout.LayoutFlags="PositionProportional, WidthProportional"
+               AbsoluteLayout.LayoutBounds="0.5, 1, 1, AutoSize"
+               Text="Desenvolvido por Laysa Bernardes CB3024873 e Lucas Lopes "
+               FontSize="12"
+               TextColor="#6E6E6E"
+               HorizontalTextAlignment="Center"
+               Padding="0, 10, 0, 10" />
+
+        </AbsoluteLayout>
+    </ControlTemplate>
+
 </ResourceDictionary>
