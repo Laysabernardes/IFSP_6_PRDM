@@ -20,14 +20,6 @@ Aplicação móvel desenvolvida em .NET MAUI para simular o rastreamento de paco
 | **`ResultadosPage.xaml`** | Visualização (View) | Exibe os detalhes e histórico do pacote em **layouts empilhados** para evitar problemas de sobreposição. |
 | **`Styles.xaml`** | Estilos XAML | Contém estilos globais e definições de cores (`AzulPrincipal`, `TextoAzulMarinho`, etc.)|
 
----
-## ✒️ Autores
-
-| Desenvolvedor | CB |
-| :--- | :--- |
-| **Laysa Bernardes** | **CB3024873** |
-| **Lucas Lopes** | **CB3025284** |
-
 ## 🚀 Como Executar
 
 1.  Clone este repositório para sua máquina local.
@@ -37,3 +29,10 @@ Aplicação móvel desenvolvida em .NET MAUI para simular o rastreamento de paco
     * **`BR420BRL`** (Entregue)
     * **`SP999BRX`** (Aguardando Retirada)
     * **`MG111ABC`** (Em Trânsito)
+---
+## ✒️ Autores
+
+| Desenvolvedor | CB |
+| :--- | :--- |
+| **Laysa Bernardes** | **CB3024873** |
+| **Lucas Lopes** | **CB3025284** |
