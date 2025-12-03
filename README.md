@@ -10,3 +10,4 @@
 | TP1              | `./TP1` | [TP1](https://github.com/Laysabernardes/IFSP_6_PRDM/tree/main/TP1) | 11/09/2025      |
 | TP2              | `./TP2` | [TP2](https://github.com/Laysabernardes/IFSP_6_PRDM/tree/main/TP2) | 02/10/2025      |
 | TP3              | `./TP3` | [TP3](https://github.com/Laysabernardes/IFSP_6_PRDM/tree/main/TP3) | 30/10/2025      |
+| P02              | `./P02` | [TPO2](https://github.com/Laysabernardes/IFSP_6_PRDM/tree/main/PO2) | 04/12/2025      |
